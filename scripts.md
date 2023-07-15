@@ -1,365 +1,365 @@
 Executed scripts
 ================
 
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/_virtualenv.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/diff_match_patch/diff_match_patch.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/apps/config.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/apps/registry.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/conf/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/helpers.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/models.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/options.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/sites.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/admin_list.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/admin_urls.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/views/main.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/backends.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/base_user.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/context_processors.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/hashers.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/middleware.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/models.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/contenttypes/models.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/api.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/context_processors.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/middleware.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/cookie.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/session.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/backends/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/backends/db.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/middleware.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/finders.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/handlers.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/views.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/cache/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/storage.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/uploadedfile.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/uploadhandler.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/exception.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/wsgi.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/management/color.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/paginator.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/servers/basehttp.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/signing.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/validators.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/base/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/base/operations.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/creation.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/operations.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/aggregates.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/expressions.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/mixins.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/related.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/lookups.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/manager.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/options.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/query.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/query_utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/compiler.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/datastructures.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/query.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/subqueries.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/where.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/transaction.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/dispatch/dispatcher.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/boundfield.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/fields.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/forms.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/renderers.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/widgets.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/cookie.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/multipartparser.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/request.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/response.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/clickjacking.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/common.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/csrf.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/security.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/backends/django.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/context.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/context_processors.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/defaultfilters.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/defaulttags.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/engine.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/exceptions.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/library.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loader.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loader_tags.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/app_directories.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/filesystem.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/response.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/smartif.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/templatetags/i18n.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/templatetags/static.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/converters.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/resolvers.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/_os.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/autoreload.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/cache.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/crypto.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/datastructures.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/dateformat.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/dateparse.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/datetime_safe.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/deconstruct.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/decorators.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/deprecation.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/encoding.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/formats.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/functional.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/hashable.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/html.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/http.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/inspect.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/itercompat.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/log.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/module_loading.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/numberformat.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/safestring.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/termcolors.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/text.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/timezone.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/topological_sort.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/translation/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/translation/trans_real.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/tree.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/version.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/decorators/cache.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/decorators/http.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/generic/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/i18n.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/static.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/admin.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/fields.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/formats/base_formats.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/forms.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/instance_loaders.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/mixins.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/resources.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/results.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/tmp_storages.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/widgets.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/pytz/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/core.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/formats/__init__.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/formats/_csv.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/utils.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/whitenoise/base.py
-/home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/whitenoise/middleware.py
-/usr/lib/python3.10/_collections_abc.py
-/usr/lib/python3.10/_strptime.py
-/usr/lib/python3.10/abc.py
-/usr/lib/python3.10/base64.py
-/usr/lib/python3.10/calendar.py
-/usr/lib/python3.10/cgi.py
-/usr/lib/python3.10/codecs.py
-/usr/lib/python3.10/collections/__init__.py
-/usr/lib/python3.10/contextlib.py
-/usr/lib/python3.10/copy.py
-/usr/lib/python3.10/copyreg.py
-/usr/lib/python3.10/email/_parseaddr.py
-/usr/lib/python3.10/email/_policybase.py
-/usr/lib/python3.10/email/errors.py
-/usr/lib/python3.10/email/feedparser.py
-/usr/lib/python3.10/email/message.py
-/usr/lib/python3.10/email/parser.py
-/usr/lib/python3.10/email/utils.py
-/usr/lib/python3.10/enum.py
-/usr/lib/python3.10/functools.py
-/usr/lib/python3.10/genericpath.py
-/usr/lib/python3.10/gettext.py
-/usr/lib/python3.10/hmac.py
-/usr/lib/python3.10/http/client.py
-/usr/lib/python3.10/http/cookies.py
-/usr/lib/python3.10/http/server.py
-/usr/lib/python3.10/importlib/__init__.py
-/usr/lib/python3.10/inspect.py
-/usr/lib/python3.10/json/__init__.py
-/usr/lib/python3.10/json/decoder.py
-/usr/lib/python3.10/json/encoder.py
-/usr/lib/python3.10/linecache.py
-/usr/lib/python3.10/locale.py
-/usr/lib/python3.10/logging/__init__.py
-/usr/lib/python3.10/mimetypes.py
-/usr/lib/python3.10/os.py
-/usr/lib/python3.10/pathlib.py
-/usr/lib/python3.10/posixpath.py
-/usr/lib/python3.10/random.py
-/usr/lib/python3.10/re.py
-/usr/lib/python3.10/selectors.py
-/usr/lib/python3.10/socket.py
-/usr/lib/python3.10/socketserver.py
-/usr/lib/python3.10/sre_compile.py
-/usr/lib/python3.10/sre_parse.py
-/usr/lib/python3.10/tempfile.py
-/usr/lib/python3.10/threading.py
-/usr/lib/python3.10/tokenize.py
-/usr/lib/python3.10/traceback.py
-/usr/lib/python3.10/types.py
-/usr/lib/python3.10/urllib/parse.py
-/usr/lib/python3.10/urllib/request.py
-/usr/lib/python3.10/weakref.py
-/usr/lib/python3.10/wsgiref/handlers.py
-/usr/lib/python3.10/wsgiref/headers.py
-/usr/lib/python3.10/wsgiref/simple_server.py
-/usr/lib/python3.10/wsgiref/util.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/_virtualenv.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/diff_match_patch/diff_match_patch.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/apps/config.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/apps/registry.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/conf/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/helpers.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/models.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/options.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/sites.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/admin_list.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/admin_urls.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/templatetags/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/admin/views/main.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/backends.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/base_user.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/context_processors.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/hashers.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/middleware.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/auth/models.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/contenttypes/models.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/api.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/context_processors.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/middleware.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/cookie.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/fallback.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/messages/storage/session.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/backends/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/backends/db.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/sessions/middleware.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/finders.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/handlers.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/contrib/staticfiles/views.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/cache/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/storage.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/uploadedfile.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/files/uploadhandler.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/exception.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/handlers/wsgi.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/management/color.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/paginator.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/servers/basehttp.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/signing.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/core/validators.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/base/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/base/operations.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/creation.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/sqlite3/operations.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/backends/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/aggregates.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/expressions.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/mixins.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/fields/related.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/lookups.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/manager.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/options.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/query.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/query_utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/compiler.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/datastructures.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/query.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/subqueries.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/models/sql/where.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/transaction.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/db/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/dispatch/dispatcher.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/boundfield.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/fields.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/forms.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/renderers.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/forms/widgets.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/cookie.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/multipartparser.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/request.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/http/response.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/clickjacking.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/common.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/csrf.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/middleware/security.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/backends/django.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/context.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/context_processors.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/defaultfilters.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/defaulttags.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/engine.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/exceptions.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/library.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loader.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loader_tags.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/app_directories.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/loaders/filesystem.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/response.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/smartif.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/template/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/templatetags/i18n.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/templatetags/static.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/converters.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/urls/resolvers.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/_os.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/autoreload.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/cache.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/crypto.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/datastructures.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/dateformat.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/dateparse.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/datetime_safe.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/deconstruct.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/decorators.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/deprecation.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/encoding.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/formats.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/functional.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/hashable.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/html.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/http.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/inspect.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/itercompat.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/log.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/module_loading.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/numberformat.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/safestring.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/termcolors.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/text.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/timezone.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/topological_sort.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/translation/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/translation/trans_real.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/tree.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/utils/version.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/decorators/cache.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/decorators/http.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/generic/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/i18n.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/django/views/static.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/admin.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/fields.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/formats/base_formats.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/forms.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/instance_loaders.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/mixins.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/resources.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/results.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/tmp_storages.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/import_export/widgets.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/pytz/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/core.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/formats/__init__.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/formats/_csv.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/tablib/utils.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/whitenoise/base.py
+    /home/user/sample-django-charts-argon/env/lib/python3.10/site-packages/whitenoise/middleware.py
+    /usr/lib/python3.10/_collections_abc.py
+    /usr/lib/python3.10/_strptime.py
+    /usr/lib/python3.10/abc.py
+    /usr/lib/python3.10/base64.py
+    /usr/lib/python3.10/calendar.py
+    /usr/lib/python3.10/cgi.py
+    /usr/lib/python3.10/codecs.py
+    /usr/lib/python3.10/collections/__init__.py
+    /usr/lib/python3.10/contextlib.py
+    /usr/lib/python3.10/copy.py
+    /usr/lib/python3.10/copyreg.py
+    /usr/lib/python3.10/email/_parseaddr.py
+    /usr/lib/python3.10/email/_policybase.py
+    /usr/lib/python3.10/email/errors.py
+    /usr/lib/python3.10/email/feedparser.py
+    /usr/lib/python3.10/email/message.py
+    /usr/lib/python3.10/email/parser.py
+    /usr/lib/python3.10/email/utils.py
+    /usr/lib/python3.10/enum.py
+    /usr/lib/python3.10/functools.py
+    /usr/lib/python3.10/genericpath.py
+    /usr/lib/python3.10/gettext.py
+    /usr/lib/python3.10/hmac.py
+    /usr/lib/python3.10/http/client.py
+    /usr/lib/python3.10/http/cookies.py
+    /usr/lib/python3.10/http/server.py
+    /usr/lib/python3.10/importlib/__init__.py
+    /usr/lib/python3.10/inspect.py
+    /usr/lib/python3.10/json/__init__.py
+    /usr/lib/python3.10/json/decoder.py
+    /usr/lib/python3.10/json/encoder.py
+    /usr/lib/python3.10/linecache.py
+    /usr/lib/python3.10/locale.py
+    /usr/lib/python3.10/logging/__init__.py
+    /usr/lib/python3.10/mimetypes.py
+    /usr/lib/python3.10/os.py
+    /usr/lib/python3.10/pathlib.py
+    /usr/lib/python3.10/posixpath.py
+    /usr/lib/python3.10/random.py
+    /usr/lib/python3.10/re.py
+    /usr/lib/python3.10/selectors.py
+    /usr/lib/python3.10/socket.py
+    /usr/lib/python3.10/socketserver.py
+    /usr/lib/python3.10/sre_compile.py
+    /usr/lib/python3.10/sre_parse.py
+    /usr/lib/python3.10/tempfile.py
+    /usr/lib/python3.10/threading.py
+    /usr/lib/python3.10/tokenize.py
+    /usr/lib/python3.10/traceback.py
+    /usr/lib/python3.10/types.py
+    /usr/lib/python3.10/urllib/parse.py
+    /usr/lib/python3.10/urllib/request.py
+    /usr/lib/python3.10/weakref.py
+    /usr/lib/python3.10/wsgiref/handlers.py
+    /usr/lib/python3.10/wsgiref/headers.py
+    /usr/lib/python3.10/wsgiref/simple_server.py
+    /usr/lib/python3.10/wsgiref/util.py
 
 Imports
 =======
 
-<frozen importlib._bootstrap>
-<frozen importlib._bootstrap_external>
-__module__
-_abc
-_codecs
-_collections
-_csv
-_frozen_importlib
-_frozen_importlib_external
-_functools
-_hashlib
-_imp
-_json
-_locale
-_operator
-_sqlite3
-_sre
-_stat
-_strptime
-_thread
-abc
-binascii
-builtins
-collections
-copyreg
-decimal
-diff_match_patch.diff_match_patch
-django.contrib.admin.templatetags.admin_list
-django.contrib.admin.templatetags.base
-django.contrib.admin.views.main
-django.contrib.auth.backends
-django.contrib.auth.context_processors
-django.contrib.auth.middleware
-django.contrib.messages.middleware
-django.contrib.messages.storage.base
-django.contrib.messages.storage.cookie
-django.contrib.messages.storage.fallback
-django.contrib.messages.storage.session
-django.contrib.sessions.backends.db
-django.contrib.sessions.middleware
-django.contrib.staticfiles.handlers
-django.core.exceptions
-django.core.files.uploadedfile
-django.core.files.uploadhandler
-django.core.handlers.wsgi
-django.core.management.color
-django.core.paginator
-django.core.servers.basehttp
-django.core.signing
-django.core.validators
-django.db.backends.sqlite3.base
-django.db.backends.utils
-django.db.models.aggregates
-django.db.models.base
-django.db.models.expressions
-django.db.models.lookups
-django.db.models.manager
-django.db.models.query
-django.db.models.query_utils
-django.db.models.sql.compiler
-django.db.models.sql.datastructures
-django.db.models.sql.query
-django.db.models.sql.subqueries
-django.db.models.sql.where
-django.db.transaction
-django.db.utils
-django.forms.boundfield
-django.forms.forms
-django.forms.utils
-django.forms.widgets
-django.http.multipartparser
-django.http.request
-django.http.response
-django.middleware.clickjacking
-django.middleware.common
-django.middleware.csrf
-django.middleware.security
-django.template.backends.django
-django.template.base
-django.template.context
-django.template.defaulttags
-django.template.engine
-django.template.exceptions
-django.template.library
-django.template.loader_tags
-django.template.response
-django.template.smartif
-django.templatetags.i18n
-django.templatetags.static
-django.urls.exceptions
-django.urls.resolvers
-django.utils.datastructures
-django.utils.dateformat
-django.utils.datetime_safe
-django.utils.functional
-django.utils.safestring
-django.utils.translation.trans_real
-django.utils.tree
-django.views.i18n
-email.errors
-email.feedparser
-email.parser
-encodings.utf_8
-enum
-functools
-hmac
-http.client
-http.cookies
-import_export.formats.base_formats
-import_export.instance_loaders
-import_export.resources
-import_export.results
-import_export.tmp_storages
-import_export.utils
-inspect
-io
-json.encoder
-logging
-marshal
-math
-operator
-pathlib
-posix
-pytz
-random
-sqlite3
-sre_parse
-sys
-tablib.core
-tempfile
-time
-traceback
-urllib.parse
-weakref
-whitenoise.middleware
-wsgiref.headers
+    <frozen importlib._bootstrap>
+    <frozen importlib._bootstrap_external>
+    __module__
+    _abc
+    _codecs
+    _collections
+    _csv
+    _frozen_importlib
+    _frozen_importlib_external
+    _functools
+    _hashlib
+    _imp
+    _json
+    _locale
+    _operator
+    _sqlite3
+    _sre
+    _stat
+    _strptime
+    _thread
+    abc
+    binascii
+    builtins
+    collections
+    copyreg
+    decimal
+    diff_match_patch.diff_match_patch
+    django.contrib.admin.templatetags.admin_list
+    django.contrib.admin.templatetags.base
+    django.contrib.admin.views.main
+    django.contrib.auth.backends
+    django.contrib.auth.context_processors
+    django.contrib.auth.middleware
+    django.contrib.messages.middleware
+    django.contrib.messages.storage.base
+    django.contrib.messages.storage.cookie
+    django.contrib.messages.storage.fallback
+    django.contrib.messages.storage.session
+    django.contrib.sessions.backends.db
+    django.contrib.sessions.middleware
+    django.contrib.staticfiles.handlers
+    django.core.exceptions
+    django.core.files.uploadedfile
+    django.core.files.uploadhandler
+    django.core.handlers.wsgi
+    django.core.management.color
+    django.core.paginator
+    django.core.servers.basehttp
+    django.core.signing
+    django.core.validators
+    django.db.backends.sqlite3.base
+    django.db.backends.utils
+    django.db.models.aggregates
+    django.db.models.base
+    django.db.models.expressions
+    django.db.models.lookups
+    django.db.models.manager
+    django.db.models.query
+    django.db.models.query_utils
+    django.db.models.sql.compiler
+    django.db.models.sql.datastructures
+    django.db.models.sql.query
+    django.db.models.sql.subqueries
+    django.db.models.sql.where
+    django.db.transaction
+    django.db.utils
+    django.forms.boundfield
+    django.forms.forms
+    django.forms.utils
+    django.forms.widgets
+    django.http.multipartparser
+    django.http.request
+    django.http.response
+    django.middleware.clickjacking
+    django.middleware.common
+    django.middleware.csrf
+    django.middleware.security
+    django.template.backends.django
+    django.template.base
+    django.template.context
+    django.template.defaulttags
+    django.template.engine
+    django.template.exceptions
+    django.template.library
+    django.template.loader_tags
+    django.template.response
+    django.template.smartif
+    django.templatetags.i18n
+    django.templatetags.static
+    django.urls.exceptions
+    django.urls.resolvers
+    django.utils.datastructures
+    django.utils.dateformat
+    django.utils.datetime_safe
+    django.utils.functional
+    django.utils.safestring
+    django.utils.translation.trans_real
+    django.utils.tree
+    django.views.i18n
+    email.errors
+    email.feedparser
+    email.parser
+    encodings.utf_8
+    enum
+    functools
+    hmac
+    http.client
+    http.cookies
+    import_export.formats.base_formats
+    import_export.instance_loaders
+    import_export.resources
+    import_export.results
+    import_export.tmp_storages
+    import_export.utils
+    inspect
+    io
+    json.encoder
+    logging
+    marshal
+    math
+    operator
+    pathlib
+    posix
+    pytz
+    random
+    sqlite3
+    sre_parse
+    sys
+    tablib.core
+    tempfile
+    time
+    traceback
+    urllib.parse
+    weakref
+    whitenoise.middleware
+    wsgiref.headers
